@@ -1,7 +1,7 @@
 # Data Science Portfolio by Viet NPH
 This repository is a front-page of my data-science portfolio with an overview of the projects I've worked on. Each project's `README.md` will provide a full description of the project, so I'll provide a short description here for convenience. 
 Some projects contain private data, so its input dataset will not be public.<br/>
-_All of these projects are in Python._
+<sub>All of these projects are in Python</sub>
 
 ## PREDICTION MODELS
 
@@ -9,7 +9,7 @@ _All of these projects are in Python._
 [Digit Regconizer Challenge with MNIST digit handwritten dataset](https://github.com/vietthewildman/kaggle-competition-digit-regconizer)<br/>
 The project is to recognize a handwritten digit. Besides the model with more than 98% accuracy, I have also deployed a webapp using Streamlit for a quick interaction.
 
-### ** Predicting Diabetes
+### - Predicting Diabetes
 
 
 ### - Predicting Taxi Fares
