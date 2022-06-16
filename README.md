@@ -9,7 +9,7 @@ _All of these projects are in Python._
 [Digit Regconizer Challenge with MNIST digit handwritten dataset](https://github.com/vietthewildman/kaggle-competition-digit-regconizer)<br/>
 The project is to recognize a handwritten digit. Besides the model with more than 98% accuracy, I have also deployed a webapp using Streamlit for a quick interaction.
 
-### * Predicting Diabetes
+### ** Predicting Diabetes
 
 
 ### - Predicting Taxi Fares
