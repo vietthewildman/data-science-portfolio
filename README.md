@@ -1,6 +1,6 @@
 # Data Science Portfolio by Viet NPH
 This repository is a front-page of my data-science portfolio with an overview of the projects I've worked on. Each project's `README.md` will provide a full description of the project, so I'll provide a short description here for convenience. 
-Some projects containing private data, so its input dataset will not be public.<br/>
+Some projects contain private data, so its input dataset will not be public.<br/>
 _All of these projects are in Python._
 
 ## PREDICTION MODELS
