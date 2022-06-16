@@ -5,35 +5,35 @@ _All of these projects are in Python._
 
 ## PREDICTION MODELS
 
-### Handwritten Digit Recognization (KAGGLE COMPETITION)
+### - Handwritten Digit Recognization (KAGGLE COMPETITION)
 [Digit Regconizer Challenge with MNIST digit handwritten dataset](https://github.com/vietthewildman/kaggle-competition-digit-regconizer)<br/>
 The project is to recognize a handwritten digit. Besides the model with more than 98% accuracy, I have also deployed a webapp using Streamlit for a quick interaction.
 
-### Predicting Diabetes
+### - Predicting Diabetes
 
 
-### Predicting Taxi Fares
+### - Predicting Taxi Fares
 
 
-### Cats Versus Dogs - Image Classification
+### - Cats Versus Dogs - Image Classification
 
 
-### Removing Noise from Images
+### - Removing Noise from Images
 
 
-### Sentiment Analysis of Movie Reviews
+### - Sentiment Analysis of Movie Reviews
 
 
-### Facial Recognition System
+### - Facial Recognition System
 
 
-### Financial Solvency Predictions
+### - Financial Solvency Predictions
 
 ## DATA MINING
 
-### Movies Information using The Movie DB API
+### - Movies Information using The Movie DB API
 
-### Real-estate from Propzy.vn using Scarppy
+### - Real-estate from Propzy.vn using Scarppy
 
 ## DATA VISUALIZATION
 
