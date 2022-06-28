@@ -24,7 +24,7 @@ With the rise of Uber, the Taxi and Limousine Commission of NYC needs to create 
 
 
 ### Sentiment Analysis of Movie Reviews
-[the IMDb movie reviews prediction](https://github.com/vietthewildman/the-movie-DB-reviews-prediction)
+[The IMDb movie reviews prediction](https://github.com/vietthewildman/the-movie-DB-reviews-prediction)</br>
 This project will use Long-short Term Memory model to predict whether a review on the IMDb is positive or negative. 
 
 ### Facial Recognition System
