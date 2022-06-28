@@ -37,9 +37,12 @@ This project will use logistics regression to decided if we should proceed the l
 ## DATA MINING
 
 ### Movies Information using The Movie DB API
+[The-IMDb-movie-API-data-crawling](https://github.com/vietthewildman/the-IBMb-movie-reviews-crawling)</br>
+The IMDb movie is one of thousands of platforms providing APIs to connect with their data collection. In order to understand what is the benefit and how to use APIs to crawl data, I create this project to enhance my knowledge on using API for Data Mining. 
+                                                                                                       
 
 ### Real-estate from Propzy.vn using Scrappy
-[real-estate data crawling with Scrappy](https://github.com/vietthewildman/real-estate-propzy-using-scrappy/)</br>
+[Real-estate data crawling with Scrappy](https://github.com/vietthewildman/real-estate-propzy-using-scrappy/)</br>
 The website contains thousands of real-estate data from Hochiminh city, Vietnam. Each data coming with location, price as well as facilities of the property. 
 
 ## DATA VISUALIZATION
