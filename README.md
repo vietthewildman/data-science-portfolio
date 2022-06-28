@@ -25,7 +25,7 @@ With the rise of Uber, the Taxi and Limousine Commission of NYC needs to create 
 
 ### Sentiment Analysis of Movie Reviews
 [The IMDb movie reviews prediction](https://github.com/vietthewildman/the-movie-DB-reviews-prediction)</br>
-The problem with sentiment analysis is vanishing gradient. At the moment, there are several models that can deal with this problem pretty well. With the dataset of movie reviews provided by the IMBd, I will will use Long-short Term Memory model to predict whether a review on the IMDb is positive or negative. 
+The problem with sentiment analysis is vanishing gradient. At the moment, there are several models that can deal with this problem pretty well. With the dataset of movie reviews provided by the IMDb, I will will use Long-short Term Memory model to predict whether a review on the IMDb is positive or negative. 
 
 ### Facial Recognition System
 
