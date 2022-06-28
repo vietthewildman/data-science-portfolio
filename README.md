@@ -38,7 +38,9 @@ This project will use logistics regression to decided if we should proceed the l
 
 ### Movies Information using The Movie DB API
 
-### Real-estate from Propzy.vn using Scarppy
+### Real-estate from Propzy.vn using Scrappy
+[real-estate data crawling with Scrappy](https://github.com/vietthewildman/real-estate-propzy-using-scrappy/)</br>
+The website contains thousands of real-estate data from Hochiminh city, Vietnam. Each data coming with location, price as well as facilities of the property. 
 
 ## DATA VISUALIZATION
 
