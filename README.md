@@ -41,7 +41,7 @@ This project will use logistics regression to decided if we should proceed the l
 The IMDb movie is one of thousands of platforms providing APIs to connect with their data collection. In order to understand what is the benefit and how to use APIs to crawl data, I create this project to enhance my knowledge on using API for Data Mining. 
                                                                                                        
 
-### Real-estate from Propzy.vn using Scrappy
+### HCMC Real-estate data extraction from Propzy.vn using Scrappy
 [Real-estate data crawling with Scrappy](https://github.com/vietthewildman/real-estate-propzy-using-scrappy/)</br>
 The website contains thousands of real-estate data from Hochiminh city, Vietnam. Each data coming with location, price as well as facilities of the property. 
 
