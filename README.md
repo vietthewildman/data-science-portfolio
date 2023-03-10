@@ -17,17 +17,10 @@ The dataset contains 768 records of female Pima Indians health metrics, along wi
 [NYC taxi fares prediction](https://github.com/vietthewildman/NYC-taxi-fares-prediction)</br>
 With the rise of Uber, the Taxi and Limousine Commission of NYC needs to create a new app that allows commuters to book a yellow cab from their phones. The app provides fare pricing upfront before they hail a cab using their historical dataset as well as CNN.
 
-### Cats Versus Dogs - Image Classification
-
-
-### Removing Noise from Images
-
 
 ### Sentiment Analysis of Movie Reviews
 [The IMDb movie reviews prediction](https://github.com/vietthewildman/the-movie-DB-reviews-prediction)</br>
 The problem with sentiment analysis is vanishing gradient. At the moment, there are several models that can deal with this problem pretty well. With the dataset of movie reviews provided by the IMDb, I will will use Long-short Term Memory model to predict whether a review on the IMDb is positive or negative. 
-
-### Facial Recognition System
 
 
 ### Financial Solvency Predictions
